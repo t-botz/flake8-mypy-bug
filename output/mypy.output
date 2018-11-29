@@ -1,0 +1,2 @@
+simpleExample.py:3: error: Function is missing a type annotation
+simpleExample.py:8: error: Too few arguments for "do_nothing"
